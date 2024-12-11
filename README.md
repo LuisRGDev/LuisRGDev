@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-![Static Badge](https://img.shields.io/badge/Luis-Contact%20me-blue)
+![Static Badge](https://img.shields.io/whatsapp/5544931280?/Luis-Contact%20me-blue)
 
 <!--
 **LuisRGDev/LuisRGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
