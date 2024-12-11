@@ -4,8 +4,12 @@
 
 ## Sobre mi
 - 🌱 I’m currently studying systems in Centro Universitario UAEM Valle de Mexico
-- 📫 How to reach me: luisalbertorosalesg@gmail.com
-
+- 📫 How to reach me: [gmail](mailto:luisalbertorosalesg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-alberto-rosales-garc%C3%ADa-582b882aa/)
+- 🕵️ In search of job 
+- 💻 **Languages & Technologies**  
+🐍 HTML | 🌐 CSS | ☕ Java  
+⚙️ Python | Java Script | PHP  
+🛠️ Git | My SQL |
 [![WhatsApp](https://img.shields.io/badge/Luis-Contact%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525544931280)
 
 
