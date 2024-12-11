@@ -4,8 +4,11 @@
 
 ## Sobre mi
 - 🌱 I’m currently studying systems in Centro Universitario UAEM Valle de Mexico
-- 📫 How to reach me: [gmail](mailto:luisalbertorosalesg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-alberto-rosales-garc%C3%ADa-582b882aa/)
-- 🕵️ In search of job 
+- 🌟 Passionate about webs development and building impactful applications.  
+- 💼 Actively seeking exciting job opportunities in full-stack development.
+- 📖 Currently honing my skills
+- 📫 How to reach me: [Gmail](mailto:luisalbertorosalesg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-alberto-rosales-garc%C3%ADa-582b882aa/)
+- 🌍 Open to remote and hybrid roles worldwide. 
 - 💻 **Languages & Technologies**  
 🐍 HTML | 🌐 CSS | ☕ Java  
 ⚙️ Python | Java Script | PHP  
