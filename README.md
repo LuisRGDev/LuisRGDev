@@ -1,4 +1,6 @@
-## Hola, soy Luis🤓👋
+## Hi, i'm Luis🤓👋
+
+![Static Badge](https://img.shields.io/badge/Luis-Contact%20me-blue)
 
 <!--
 **LuisRGDev/LuisRGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
