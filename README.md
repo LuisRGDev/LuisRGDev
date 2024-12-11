@@ -1,5 +1,6 @@
-## Hi, i'm Luis🤓👋
-
+<div align=center>
+<h1 align=center>Hi, i'm Luis🤓👋</h1>
+</div>
 ## Sobre mi
 
 ![Static Badge](https://img.shields.io/badge/Luis-Contact%20me-blue)
