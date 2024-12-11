@@ -1,9 +1,12 @@
 <div align=center>
 <h1 align=center>Hi, i'm Luis🤓👋</h1>
 </div>
-## Sobre mi
 
-![Static Badge](https://img.shields.io/badge/Luis-Contact%20me-blue)
+## Sobre mi
+- 🌱 I’m currently studying systems in Centro Universitario UAEM Valle de Mexico
+- 📫 How to reach me: +52 5544931280
+[![WhatsApp](https://img.shields.io/badge/Luis-Contact%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525544931280)
+
 
 <!--
 **LuisRGDev/LuisRGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
