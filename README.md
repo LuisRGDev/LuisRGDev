@@ -2,7 +2,7 @@
 <h1 align=center>Hi, i'm Luis🤓👋</h1>
 </div>
 
-## Sobre mi
+## About me
 - 🌱 I’m currently studying systems in Centro Universitario UAEM Valle de Mexico
 - 🌟 Passionate about webs development and building impactful applications.  
 - 💼 Actively seeking exciting job opportunities in full-stack development.
